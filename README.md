@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harshith D
 
-##### Aspiring Java Full Stack Developer from India
+#### Aspiring Java Full Stack Developer from India
 
 - 🔭 I’m currently working on Web Application Deployment to Apache Tomcat Tech:AWS,Linux,Git&GitHub,Maven,jenkins,Apache Tomcat
 - 🌱 I’m currently learning java Full Stack Development, SQL,AWS Deployment
