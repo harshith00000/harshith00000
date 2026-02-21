@@ -1,9 +1,6 @@
 ## Hi 👋, I'm Harshith D
 
-
-**harshith00000/harshith00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Aspiring Java Full Stack Developer from India
 
 - 🔭 I’m currently working on Web Application Deployment to Apache Tomcat Tech:AWS,Linux,Git&GitHub,Maven,jenkins,Apache Tomcat
 - 🌱 I’m currently learning java Full Stack Development, SQL,AWS Deployment
